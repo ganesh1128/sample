@@ -1,0 +1,64 @@
+body{
+background-color: rgb(33,37,41);
+}
+.nav{
+    background-color: #1B1C1D !important;  
+}
+.nav-link active{
+    color: #FFFFFF !important;
+    padding-right: 50px !important;
+}
+.rebel{
+
+}
+h1,p{
+    color: #212121 ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.blockquote{
+    margin-bottom: 29px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: #FFF;
+    font-size: 300%;
+    padding-top: 140px;
+}
+.footer{
+    display: flex !important;
+    justify-content: center !important;
+    align-content: center;
+    font-size: larger !important;
+    font-weight: 100px !important;
+    color: #FFF !important;
+    padding-bottom: 300px;
+    
+}
+.center{
+    background-color: white;
+    width: 126%;
+    height: 126%;
+    padding-top: 15%;
+
+}
+.love{
+    font-weight: bold;
+   
+}  
+.star{
+       font-weight: bold;
+       font-size: 150%;
+
+ }
+.poem{
+    text-align: center;
+    font-size: 185%;
+    font-weight: bold;
+ }
+
+.luv{
+    font-weight: bold;
+   
+}
+
